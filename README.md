@@ -38,7 +38,7 @@ Part I of the 3-Course series: ANN, PR, and NLP
     * In python session, try ```import sklearn```
   * Opencv2
     * ```pip3 install opencv-python```
-
+    * In python session, try ```import cv2```
 
 ### pytorch
   
