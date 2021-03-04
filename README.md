@@ -60,3 +60,4 @@ Python Environment
       * https://rocmdocs.amd.com/en/latest/Deep_learning/Deep-learning.html#pytorch
     * Docker pytorch
       * https://hub.docker.com/r/pytorch/pytorch  
+      * [How to use docker](https://github.com/tatpongkatanyukul/Learn/blob/main/docker/synopsis.md)
