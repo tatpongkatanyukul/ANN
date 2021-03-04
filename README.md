@@ -10,6 +10,7 @@ Python Environment
 * Windows: Anaconda
 * Mac: ```pyenv```
   * ```brew install pyenv``` 
+  * ```pyenv install 3.9```
 
 ---
 ## Set up
