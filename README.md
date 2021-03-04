@@ -23,8 +23,8 @@ Part I of the 3-Course series: ANN, PR, and NLP
   np.__version__
   ```
   
-    * No numpy installed
-      * ```pip3 install numpy``` 
+  Install numpy
+  ```pip3 install numpy``` 
  
 
 ### scikit-learn, opencv2
