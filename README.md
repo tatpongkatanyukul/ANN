@@ -14,7 +14,10 @@ Mac Lab
 
 Python Environment
 * Windows: anaconda
-* Mac: virtualenv
+* Mac: virtualenv: ```python3 -m pip install --user virtualenv```
+  * create environment: ```python3 -m venv myenv0```
+  * activate environment: ```source myenv0/bin/activate```
+  * deactivate environment: ```deactivate```
 
 ---
 ## Set up
