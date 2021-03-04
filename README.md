@@ -17,10 +17,12 @@ Part I of the 3-Course series: ANN, PR, and NLP
     * Check with ```jupyter notebook``` or ```jupyter-lab```
   * Numpy
     * In python session, try
+    
   ```
   import numpy as np
   np.__version__
   ```
+  
     * No numpy installed
       * ```pip3 install numpy``` 
  
