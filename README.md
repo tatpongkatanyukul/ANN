@@ -33,6 +33,11 @@ Part I of the 3-Course series: ANN, PR, and NLP
   ```pip3 install matplotlib```
 
 ### scikit-learn / opencv2
+  * Scikit-learn
+    * ```pip3 install scikit-learn```
+    * In python session, try ```import sklearn```
+  * Opencv2
+    * ```pip3 install op 
 
 
 ### pytorch
