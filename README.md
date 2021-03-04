@@ -10,11 +10,19 @@ Part I of the 3-Course series: ANN, PR, and NLP
 ## Set up
 ### python3, jupyter-lab, pip, numpy, matplotlib
   * Python3
-  Check with ```python``` or ```python3``` or see if it is under any environment
+    * Check with ```python``` or ```python3``` or see if it is under any environment
   * Pip3
-  Check with ```pip``` or ```pip3```
+    * Check with ```pip``` or ```pip3```
   * Jupyter notebook or Jupyter-lab
-  Check with ```jupyter notebook``` or ```jupyter-lab```
+    * Check with ```jupyter notebook``` or ```jupyter-lab```
+  * Numpy
+    * In python session, try
+  ```
+  import numpy as np
+  np.__version__
+  ```
+    * No numpy installed
+      * ```pip3 install numpy``` 
  
 
 ### scikit-learn, opencv2
