@@ -52,6 +52,7 @@ Python Environment
   * Opencv2
     * ```pip3 install opencv-python```
     * In python session, try ```import cv2```
+    * Docker: https://hub.docker.com/r/yoanlin/opencv-python3 
 
 ### pytorch
   
