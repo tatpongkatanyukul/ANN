@@ -6,7 +6,12 @@ Part I of the 3-Course series: ANN, PR, and NLP
   * NLP: sweet treat III, HMM, ANN, RNN, LSTM, GRU, Transformer, NLP applications
   
 ---
+Python Environment
+* Windows: Anaconda
+* Mac: ```pyenv```
+  * ```brew install pyenv``` 
 
+---
 ## Set up
 ### python3 / jupyter-lab / pip / numpy / matplotlib
   * Python3
