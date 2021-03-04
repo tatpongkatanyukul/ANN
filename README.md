@@ -61,3 +61,5 @@ Python Environment
     * Docker pytorch
       * https://hub.docker.com/r/pytorch/pytorch  
       * [How to use docker](https://github.com/tatpongkatanyukul/Learn/blob/main/docker/synopsis.md)
+        * ```docker build -t pytorch_im0 .``` (with [```Dockerfile```]() and [```requirements.txt```]() in the current directory)
+      
