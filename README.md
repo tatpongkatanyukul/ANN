@@ -13,7 +13,7 @@ Mac Lab
 ---
 
 Python Environment
-* Windows: Anaconda
+* Windows: anaconda
 * Mac: virtualenv
 
 ---
