@@ -55,3 +55,8 @@ Python Environment
 
 ### pytorch
   
+  * https://pytorch.org/get-started/locally/
+    * Mac with AMD GPU card
+      * https://rocmdocs.amd.com/en/latest/Deep_learning/Deep-learning.html#pytorch
+    * Docker pytorch
+      * https://hub.docker.com/r/pytorch/pytorch  
