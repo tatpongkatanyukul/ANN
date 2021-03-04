@@ -6,6 +6,11 @@ Part I of the 3-Course series: ANN, PR, and NLP
   * NLP: sweet treat III, HMM, ANN, RNN, LSTM, GRU, Transformer, NLP applications
   
 ---
+Mac Lab
+  * ```Dmelab2018```
+  * ```Student03```
+
+---
 
 Python Environment
 * Windows: Anaconda
