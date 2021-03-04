@@ -26,6 +26,11 @@ Part I of the 3-Course series: ANN, PR, and NLP
   Install numpy
   ```pip3 install numpy``` 
  
+  * Matplotlib
+    * Check with ```from matplotlib import pyplot as plt```
+  
+  Install matplotlib
+  ```pip3 install matplotlib```
 
 ### scikit-learn, opencv2
 ### pytorch
