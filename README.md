@@ -8,7 +8,7 @@ Part I of the 3-Course series: ANN, PR, and NLP
 ---
 
 ## Set up
-### python3, jupyter-lab, pip, numpy, matplotlib
+### python3 / jupyter-lab / pip / numpy / matplotlib
   * Python3
     * Check with ```python``` or ```python3``` or see if it is under any environment
   * Pip3
@@ -27,11 +27,13 @@ Part I of the 3-Course series: ANN, PR, and NLP
   ```pip3 install numpy``` 
  
   * Matplotlib
-    * Check with ```from matplotlib import pyplot as plt```
+    * In python session, try ```from matplotlib import pyplot as plt```
   
   Install matplotlib
   ```pip3 install matplotlib```
 
-### scikit-learn, opencv2
+### scikit-learn / opencv2
+
+
 ### pytorch
   
