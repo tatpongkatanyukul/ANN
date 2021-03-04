@@ -62,4 +62,7 @@ Python Environment
       * https://hub.docker.com/r/pytorch/pytorch  
       * [How to use docker](https://github.com/tatpongkatanyukul/Learn/blob/main/docker/synopsis.md)
         * ```docker build -t pytorch_im0 .``` (with [```Dockerfile```](https://github.com/tatpongkatanyukul/ANN/blob/main/Dockerfile) and [```requirements.txt```](https://github.com/tatpongkatanyukul/ANN/blob/main/requirements.txt) in the current directory)
+          * ```docker run -v /Users/student03coedmekku/Desktop/CaveTurtle4/AL/ANN:/workspace/ship1 -it pytorch_im0 bash```
+          * In python session, ```import torch``` and ```torch.__version__```
+          * result: ***successful***
       
