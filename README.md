@@ -21,6 +21,10 @@ Python Environment
 
 ---
 ## Set up
+### Docker
+  * Windows: https://docs.docker.com/docker-for-windows/install/
+  * Mac: https://docs.docker.com/docker-for-mac/install/
+
 ### python3 / jupyter-lab / pip / numpy / matplotlib
   * Python3
     * Check with ```python``` or ```python3``` or see if it is under any environment
