@@ -12,7 +12,10 @@ Part I of the 3-Course series: ANN, PR, and NLP
       * click ```<>``` (Code sniplets) on the left menu 
     * mount drive 
       * click (Files icon) on the left menu
-
+    * It limits usage to 0.5 hr.
+  
+  * Long training: Bach server
+  
 ---
 Mac Lab (Radeon GPU)
   * ```Dmelab2018```
