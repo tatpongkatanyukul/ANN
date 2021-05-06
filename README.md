@@ -6,7 +6,15 @@ Part I of the 3-Course series: ANN, PR, and NLP
   * NLP: sweet treat III, HMM, ANN, RNN, LSTM, GRU, Transformer, NLP applications
   
 ---
-Mac Lab
+## Tools
+  * Google Colab
+    * connect camera
+      * click ```<>``` (Code sniplets) on the left menu 
+    * mount drive 
+      * click (Files icon) on the left menu
+
+---
+Mac Lab (Radeon GPU)
   * ```Dmelab2018```
   * ```Student03```
 
