@@ -5,6 +5,9 @@ Part I of the 3-Course series: ANN, PR, and NLP
   * PR: sweet treat II, ANN, CNN, CNN applications, GAN, RNN
   * NLP: sweet treat III, HMM, ANN, RNN, LSTM, GRU, Transformer, NLP applications
   
+## Attendance Check
+  * Face recognition: https://pypi.org/project/face-recognition/
+  
 ---
 ## Tools
   * Google Colab
