@@ -7,6 +7,9 @@ Part I of the 3-Course series: ANN, PR, and NLP
   
 ## Attendance Check
   * Face recognition: https://pypi.org/project/face-recognition/
+
+## Actual courses
+  * [2021](https://github.com/tatpongkatanyukul/ANN/blob/main/ann2021.md)
   
 ---
 ## Tools
