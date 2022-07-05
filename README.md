@@ -26,6 +26,7 @@ Part I of the 3-Course series: ANN, PR, and NLP
     * ```workon``` to see environments
       * ```workon py3torch``` to start environment with pytorch
       * ```python``` > ```a = torch.tensor(1)``` > ```a.cuda()``` to initially test
+      * Example code to run: ```python ~/2022/torch_examples/testTorch002.py```
 ---
 Mac Lab (Radeon GPU)
   * ```Dmelab2018```
