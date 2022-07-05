@@ -22,6 +22,10 @@ Part I of the 3-Course series: ANN, PR, and NLP
   
   * Long training: Bach server
   
+  * Run on Bach (need vpn when access from outside KKU)
+    * ```workon``` to see environments
+      * ```workon py3torch``` to start environment with pytorch
+      * ```python``` > ```a = torch.tensor(1)``` > ```a.cuda()``` to initially test
 ---
 Mac Lab (Radeon GPU)
   * ```Dmelab2018```
