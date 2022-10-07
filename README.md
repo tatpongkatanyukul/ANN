@@ -10,7 +10,7 @@ Part I of the 3-Course series: ANN, PR, and NLP
 
 ## Actual courses
   * [2021](https://github.com/tatpongkatanyukul/ANN/blob/main/ann2021.md)
-  * [2022]
+  * [2022](https://github.com/tatpongkatanyukul/ANN/tree/main/2022)
     * Add object detection to [PROD course](https://github.com/tatpongkatanyukul/ANN/blob/main/PROD2022.md)
   
 ---
