@@ -11,12 +11,6 @@
 
 ---
 
-## Plan 4
-Try docker image from https://github.com/ufoym/deepo
-
-I hope that I don't have to come this far. Beside, [nvidia-docker](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) seems to work only for linux, not windows or mac! at least as of Oct 17, 2022.
-
----
 
 ## Plan 1
 1. Use ```intel/object-detection``` docker image for set up
@@ -56,5 +50,15 @@ With gpu, you need to properly install cuda and cuDNN.
 
 ### Verdict
 Plan 1 is not working: docker eats up my RAM and everything freezes. Too slow to be practical, at least I hardly get any progress on my labtop Dell Vostro 14 (RAM 4GB)
+
+---
+
+## Plan 4
+Try docker image from https://github.com/ufoym/deepo
+
+I hope that I don't have to come this far. Beside, [nvidia-docker](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) seems to work only for linux, not windows or mac! at least as of Oct 17, 2022.
+
+This may not work for student's computers!
+Nah, I'm not wasting my time trying this.
 
 ---
