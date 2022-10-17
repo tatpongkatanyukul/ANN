@@ -4,6 +4,12 @@
 * Do colab set up per tensorflow tutorial
   * https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
 
+* Load the model and do inference
+  * [Introduction to Object Detection](https://colab.research.google.com/drive/1JG9DMlTroplmSDDuqPSIYcx4yQUejr_w?usp=sharing) seems to work fine. (After a few fixes, of course)
+* Train the model
+* Customize data
+* Customize model and loss
+
 --- 
 
 ## Plan 3
