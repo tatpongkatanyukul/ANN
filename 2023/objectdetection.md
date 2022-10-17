@@ -6,7 +6,8 @@
   * https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
   * https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb
 
-===
+---
+
 ### Instructible
 
 1. Install docker
