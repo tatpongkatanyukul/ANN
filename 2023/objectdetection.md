@@ -11,6 +11,13 @@
 
 ---
 
+## Plan 4
+Try docker image from https://github.com/ufoym/deepo
+
+I hope that I don't have to come this far. Beside, nvidia-docker seems to work only for linux, not windows or mac!
+
+---
+
 ## Plan 1
 1. Use ```intel/object-detection``` docker image for set up
 2. Use Nicholas Renotte and tensorflow examples for examples
