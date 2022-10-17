@@ -25,6 +25,12 @@ With gpu, you need to properly install cuda and cuDNN.
 
 4.  
 
+### Target
+
+1. Student's computers
+2. colab
+3. Without GPU: computer lab: windows / mac
+
 ### Verdict
 Plan 1 is (working/not working?)
 
