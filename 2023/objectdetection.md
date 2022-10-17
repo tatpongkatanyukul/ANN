@@ -12,6 +12,13 @@
 * Customize data
 * Customize model and loss
 
+### Target
+* colab
+
+### Verdict
+Plan 2 is working fine.
+
+
 --- 
 
 ## Plan 3
