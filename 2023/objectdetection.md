@@ -1,5 +1,9 @@
 # Object Detection
 
+## Plan 2
+1. Do manual set up as Nicholas Renotte shows: this is going to be quite painful.
+
+
 ## Plan 1
 1. Use ```intel/object-detection``` docker image for set up
 2. Use Nicholas Renotte and tensorflow examples for examples
@@ -37,6 +41,6 @@ With gpu, you need to properly install cuda and cuDNN.
 3. Without GPU: computer lab: windows / mac
 
 ### Verdict
-Plan 1 is (working/not working?)
+Plan 1 is not working: docker eats up my RAM and everything freezes. Too slow to be practical, at least I hardly get any progress on my labtop Dell Vostro 14 (RAM 4GB)
 
 ---
