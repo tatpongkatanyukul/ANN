@@ -6,7 +6,6 @@
   * https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
   * https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb
 
----
 
 ### Instructible
 
@@ -25,3 +24,8 @@ With gpu, you need to properly install cuda and cuDNN.
 	(gpu.3) Put dll files in places
 
 4.  
+
+### Verdict
+Plan 1 is (working/not working?)
+
+---
