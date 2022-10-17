@@ -16,4 +16,4 @@
 * 13. LSTM: write
 * 14. Attention: compose
 * 15. Reinforcement learning
-* 16. Object detection
+* 16. [Object detection](https://github.com/tatpongkatanyukul/ANN/blob/main/2023/objectdetection.md)
