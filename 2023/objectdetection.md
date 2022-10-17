@@ -1,8 +1,15 @@
 # Object Detection
 
 ## Plan 2
+* Do colab set up per tensorflow tutorial
+  * https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
+
+--- 
+
+## Plan 3
 1. Do manual set up as Nicholas Renotte shows: this is going to be quite painful.
 
+---
 
 ## Plan 1
 1. Use ```intel/object-detection``` docker image for set up
