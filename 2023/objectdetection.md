@@ -8,6 +8,7 @@
 * Load the model and do inference
   * [Introduction to Object Detection](https://colab.research.google.com/drive/1JG9DMlTroplmSDDuqPSIYcx4yQUejr_w?usp=sharing) seems to work fine. (After a few fixes, of course)
 * Train the model
+  * [Eager few-shot training](https://colab.research.google.com/drive/1V6DTku9MscJUTpEOz9m-erd6HUlnUDVK?usp=sharing) 
 * Customize data
 * Customize model and loss
 
