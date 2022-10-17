@@ -10,6 +10,7 @@
 ### Instructible
 
 1. Install docker
+Get an installer from ```https://www.docker.com/``` and install docker.
 
 2. Pull object detection image
 ```
