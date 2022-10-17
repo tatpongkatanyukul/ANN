@@ -12,10 +12,14 @@
 1. Install docker
 
 2. Pull object detection image
+```
 docker pull intel/object-detection
+```
 
 3. Run the container
+```
 docker run --rm -it --gpus=all --ipc=host intel/object-detection bash
+```
 
 Note: leave ```--gpus=all``` out if you do not have gpu.
 With gpu, you need to properly install cuda and cuDNN.
