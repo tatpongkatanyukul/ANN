@@ -10,6 +10,7 @@
 * Train the model
   * [Eager few-shot training](https://colab.research.google.com/drive/1V6DTku9MscJUTpEOz9m-erd6HUlnUDVK?usp=sharing) 
 * Customize data
+  * Labeling tool: https://github.com/heartexlabs/labelImg
 * Customize model and loss
 
 ### Target
