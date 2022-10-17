@@ -14,7 +14,7 @@
 ## Plan 4
 Try docker image from https://github.com/ufoym/deepo
 
-I hope that I don't have to come this far. Beside, nvidia-docker seems to work only for linux, not windows or mac!
+I hope that I don't have to come this far. Beside, [nvidia-docker](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) seems to work only for linux, not windows or mac! at least as of Oct 17, 2022.
 
 ---
 
