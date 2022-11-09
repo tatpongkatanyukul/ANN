@@ -6,6 +6,8 @@ The teaching has never been better
 * Vectorization computation
 * Textbook reading
 * Paper reading
+* Keras/CNN examples
+* Object detection examples
 
 Evaluation has never been worst
 
