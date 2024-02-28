@@ -45,3 +45,4 @@ https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_reca
 
 นั่นคือ ตรง ```precision, recall, _ = precision_recall_curve(y_test, predictions)``` ตำแหน่งที่ใส่ ```predictions``` ควรจะใส่ predicted probability of the class ไม่ใช่ class label
 
+![Doc](https://github.com/tatpongkatanyukul/ANN/blob/main/2024/PR_Curve.png)
