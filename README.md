@@ -21,8 +21,8 @@
 # Tasks
 
 * Observable
-  * Fully: RL
-  * **Partially**: RL + probabilistic network
+  * fully: RL
+  * **partially**: RL + probabilistic network
  
 * Agent: single / multiple
 * Determinism: dterministic / stochastic
