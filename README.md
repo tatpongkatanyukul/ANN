@@ -1,6 +1,6 @@
-# ANN
+# Courses
 
-* [Old 2024 Oct 7](https://github.com/tatpongkatanyukul/ANN/blob/main/2024/main241007.md)
+* [Old ANN 2024 Oct 7](https://github.com/tatpongkatanyukul/ANN/blob/main/2024/main241007.md)
 
 
 --- 
